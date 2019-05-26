@@ -55,6 +55,7 @@ int main()
 			break;	
 		}
 		
+		printf("Hello\tIdiot\tWhat???\n");
 	}
 
 	return 0;
